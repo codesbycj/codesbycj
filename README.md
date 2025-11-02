@@ -1,4 +1,4 @@
-## Hi, I'm Emmanuel 
+## Hi, I'm Emmanuel 🌊
 
 💻 Frontend Developer <br />
 ✨ Centered on developing eye-catchy websites paired with responsive user interfaces that are 100% scalable using ReactJS, TailwindCSS, MySQL and PHP. <br />
